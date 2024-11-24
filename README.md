@@ -98,7 +98,7 @@ I'm a cloud and open source enthusiast passionate about building reliable, scala
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/avishkumar](https://linkedin.com/in/avishkumar)
+- LinkedIn: [linkedin.com/in/avishkumar](https://www.linkedin.com/in/avish-kumar-0b1105198/)
 - Medium: [@avishkumar27](https://medium.com/@avishkumar27)
 - Email: avishkumar27@gmail.com
 
