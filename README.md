@@ -2,7 +2,7 @@
 
 > Cloud Native & Infrastructure Engineer | SRE | DevOps Enthusiast
 
-I'm a cloud and open source enthusiast passionate about building reliable, scalable, and efficient infrastructure. Currently managing SLIs/SLOs/SLAs for IT infrastructure across 8 data centers in India.
+I'm a cloud and open source enthusiast passionate about building reliable, scalable, and efficient infrastructure.
 
 ## 🛠 Tech Stack
 
@@ -22,15 +22,15 @@ I'm a cloud and open source enthusiast passionate about building reliable, scala
 - Optimize cloud costs while maintaining high availability and performance
 - Manage disaster recovery and business continuity planning
 
-## 🏆 Key Achievements
+<!-- ## 🏆 Key Achievements
 
 - Led implementation of IaC pipelines reducing VM deployment time by 10x
 - Architected multi-tenant MinIO deployment on Kubernetes saving ₹50L in storage costs
 - Successfully migrated 40TB Oracle RAC databases during SAN tech-refresh
 - Integrated 500+ VMs into centralized configuration management
-- Enhanced data center security across 7 locations with comprehensive firewall deployment
+- Enhanced data center security across 7 locations with comprehensive firewall deployment -->
 
-## 📚 Latest Blog Posts
+<!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section can be automatically updated using GitHub Actions -->
