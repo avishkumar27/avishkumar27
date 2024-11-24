@@ -4,15 +4,17 @@
 
 I'm a cloud and open source enthusiast passionate about building reliable, scalable, and efficient infrastructure.
 
-🛠 Tech Stack
+##🛠 Tech Stack
 <table>
   <tr>
     <td>Infrastructure & Cloud</td>
     <td>
+      <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
+      <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" /)
+      <!-- <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" /> -->
     </td>
   </tr>
   <tr>
@@ -20,6 +22,7 @@ I'm a cloud and open source enthusiast passionate about building reliable, scala
     <td>
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/OpenTofu-%#FFDA18.svg?style=for-the-badge&logo=OpenTofu&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF" />
       <img src="https://img.shields.io/badge/pulumi-%23F7BF2A.svg?style=for-the-badge&logo=pulumi&logoColor=black" />
     </td>
@@ -53,22 +56,22 @@ I'm a cloud and open source enthusiast passionate about building reliable, scala
   <tr>
     <td>Security & Tools</td>
     <td>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
       <img src="https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" />
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Wazuh-%23009639.svg?style=for-the-badge&logo=wazuh&logoColor=white" />
     </td>
   </tr>
 </table>
 
-## 🛠 Tech Stack
+<!--## 🛠 Tech Stack
 
 - **Infrastructure & Cloud**: Kubernetes, Docker, AWS, Proxmox, Talos
 - **IaC & Automation**: Terraform, OpenTofu, Packer, Ansible, Pulumi, Crossplane
 - **Programming**: Golang, Python, Bash
 - **CI/CD**: GitLab, Jenkins, ArgoCD, Kargo
 - **Observability**: Prometheus, Grafana, ELK Stack, Loki
-- **Security & Networking**: Vault, Wazuh, Teleport, VLANs, Firewalls, Load Balancers, WAF
+- **Security & Networking**: Vault, Wazuh, Teleport, VLANs, Firewalls, Load Balancers, WAF -->
 
 ## 🎯 What I Do
 
