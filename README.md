@@ -104,6 +104,6 @@ I'm a cloud and open source enthusiast passionate about building reliable, scala
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+</p> -->
